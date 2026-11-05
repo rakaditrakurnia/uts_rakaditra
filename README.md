@@ -8,7 +8,7 @@ Proyek ini merupakan bagian dari **Ujian Tengah Semester (UTS) Visualisasi Data*
 * **Nama**: Rakaditra Kurnia
 * **NIM**: 241051017
 * **Proyek**: UTS Visualisasi Data
-* **Aplikasi Live**: [utsrakaditra.streamlit.app](https://utsrakaditra.streamlit.app)
+* **Aplikasi Live**: https://utsrakaditra.streamlit.app/
 
 ---
 
