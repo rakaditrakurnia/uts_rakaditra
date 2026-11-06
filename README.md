@@ -9,6 +9,7 @@ Proyek ini merupakan bagian dari **Ujian Tengah Semester (UTS) Visualisasi Data*
 * **NIM**: 241051017
 * **Proyek**: UTS Visualisasi Data
 * **Aplikasi Live**: https://utsrakaditra.streamlit.app/
+* **Dataset Kaggle**: https://www.kaggle.com/datasets/dhearahmadianti/dataset-untuk-umkm/data
 
 ---
 
